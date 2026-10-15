@@ -17,6 +17,9 @@ The project brings together mobile application development and assistive technol
 
 ---
 
+<img width="1792" height="972" alt="pehchaan_screenshots_landscape" src="https://github.com/user-attachments/assets/c0cdbf9f-3035-4d50-b5b7-fc85b28608e5" />
+
+
 ## 📌 About the Project
 
 Accessibility is an important part of building inclusive digital products. Traditional interfaces often rely heavily on visual interaction, which may not be equally convenient for every user or situation.
